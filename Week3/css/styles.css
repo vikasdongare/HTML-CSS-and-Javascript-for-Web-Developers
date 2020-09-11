@@ -1,5 +1,6 @@
 body{
 	background-color: #97BC62FF;
+	font-family: 'Grandstander', cursive;
 }
 #header-nav{
 	background-color: #2C5F2D;
@@ -74,3 +75,4 @@ body{
 	width: 60%;
 	border: 1px solid black;
 }
+
